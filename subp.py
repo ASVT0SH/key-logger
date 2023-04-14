@@ -1,4 +1,4 @@
-'''calls subprocess periodically, intentionally set to every second'''
+'''calls subprocess periodically, intentionally set to every day at 7am'''
 import subprocess
 import time,schedule
 
