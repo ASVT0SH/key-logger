@@ -22,6 +22,6 @@ Before using or distributing this software, consider the following:
 By using this software, you agree that the author and contributors of this project are not liable for any actions or consequences resulting from the use or misuse of this software. You are solely responsible for complying with all applicable laws and regulations while using this software.
 
 Please use this keylogger project responsibly and only in environments where you have proper authorization. If you choose to use this software, you do so at your own risk and responsibility.
-===========================
+
 
 
