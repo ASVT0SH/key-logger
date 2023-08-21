@@ -1,10 +1,9 @@
 # key-logger
 Keylogger implemented using python
 
-You can run main.py or you can have subproc.py internally call main.py .
-Calling main.py directly is safer as it is easier to terminate. 
-To terminate main.py just press **ESC** on the keyboard. 
-To terminate subproc.py exit the shell.
+- You can run main.py or you can have subproc.py internally call main.py 
+- To terminate main.py just press **ESC** on the keyboard. 
+- To terminate subproc.py exit the shell.
 
 Disclaimer:
 ===========================
